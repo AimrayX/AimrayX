@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AimrayX
-- 👀 I’m interested in making my own little projects in c++ and learing the language that way.
+- 👀 I like to learn new things.
 
 <!---
 AimrayX/AimrayX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
