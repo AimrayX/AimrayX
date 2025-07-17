@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @AimrayX
-- 👀 I like to learn new things.
-
-<!---
-AimrayX/AimrayX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![AimrayX's Stats](https://github-readme-stats.vercel.app/api?username=AimrayX&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
